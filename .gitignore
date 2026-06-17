@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local environment
+.env
+.env.*
+
+# Logs and temporary output
+*.log
+*.tmp
+tmp/
+temp/
+
+# Local hatch-pet generation artifacts
+run/
+runs/
+decoded/
+frames/
+prompts/
+qa/
+imagegen-jobs.json
+pet_request.json
